@@ -1,0 +1,16 @@
+.body_background {
+  background-image: url("background.jpg");
+  background-position: center;
+  background-size: repeat;
+}
+
+h1 {
+  color: aliceblue;
+  font-size: 50px;
+}
+
+#myCanvas {
+  border-width: 10px;
+  background-color: beige;
+  border-style: ridge;
+}
